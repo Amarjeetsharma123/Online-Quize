@@ -46,18 +46,13 @@ This is an excellent learning project for PHP beginners and web development stud
 
 ## 🧑‍💻 Developer Info
 **Name:** Amarjeet Sharma  
-GitHub: [https://github.com/your-username](http://github.com/Amarjeetsharma123)  
-LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/amarjeetsh239/)
-Portfolio: https://yourwebsite.com  
+GitHub: [https://github.com/amarjeetsharma123](http://github.com/Amarjeetsharma123)  
+LinkedIn: [https://linkedin.com/in/amarjeetsh239 ](https://www.linkedin.com/in/amarjeetsh239/)
+Portfolio: [https://amarjeetsharma123.github.io ](https://amarjeetsharma123.github.io/amarjeetsh.github.io/) 
 
-Feel free to connect for collaboration or projects.
-
----
-
-## 📄 License
-This project is open-source and licensed under **Apache License 2.0**.
 
 ---
+
 
 ### ⭐ Support  
 If you like this project, consider giving it a **GitHub Star**!
