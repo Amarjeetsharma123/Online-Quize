@@ -40,7 +40,7 @@ This is an excellent learning project for PHP beginners and web development stud
 
 ## 📸 Screenshots  
 [![UserLogin](https://raw.githubusercontent.com/USERNAME/REPO/main/myFolder/UserLogin.png)](https://github.com/Amarjeetsharma123/Online-Quize/blob/main/myfolder/UserLogin.png)
-![Admin](./myFolder/Admin.png)
+[![Admin](./myFolder/Admin.png)](https://github.com/Amarjeetsharma123/Online-Quize/blob/main/myfolder/Admin.png)
 
 
 
