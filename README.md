@@ -39,7 +39,7 @@ This is an excellent learning project for PHP beginners and web development stud
 ---
 
 ## 📸 Screenshots  
-![UserLogin](./myFolder/UserLogin.png)
+![UserLogin](https://raw.githubusercontent.com/USERNAME/REPO/main/myFolder/UserLogin.png)
 ![Admin](./myFolder/Admin.png)
 
 
