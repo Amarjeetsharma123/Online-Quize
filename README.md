@@ -39,8 +39,8 @@ This is an excellent learning project for PHP beginners and web development stud
 ---
 
 ## 📸 Screenshots  
-[![UserLogin](./myfolder/Admin.png)
-[![Admin](./myFolder/Admin.png)](https://github.com/Amarjeetsharma123/Online-Quize/blob/main/myfolder/Admin.png)
+![UserLogin](./myfolder/Admin.png)
+![Admin](./myfolder/UserLogin.png)
 
 
 
