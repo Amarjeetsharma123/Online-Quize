@@ -1,7 +1,12 @@
+<div align="center">
+
 # 📝 ONLINE QUIZ SYSTEM  
 **Developed By: Amarjeet Sharma**
 
 Online Quiz System is a fast, accurate and paperless examination method used by modern organizations, institutes, and companies. It reduces manpower, evaluates answers instantly, and generates results in seconds which makes the entire examination process smooth and efficient.
+
+</div>
+
 
 ---
 
