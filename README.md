@@ -61,7 +61,7 @@ Portfolio: [https://amarjeetsharma123.github.io ](https://amarjeetsharma123.gith
 
 ---
 
+### ✨ Keep the Motivation Alive  
+Enjoyed the project? Hit that ⭐ button and make my day!
 
-### ⭐ Support  
-If you like this project, consider giving it a **GitHub Star**!
 
