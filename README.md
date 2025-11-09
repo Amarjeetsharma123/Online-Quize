@@ -39,7 +39,9 @@ This is an excellent learning project for PHP beginners and web development stud
 ---
 
 ## 📸 Screenshots  
-(Add your screenshots in your repository and update the paths below)
+![User Login](./myFolders/UserLogin.png)
+![Admin Login](./myFolders/Admin.jpg)
+
 
 
 ---
