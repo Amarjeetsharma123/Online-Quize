@@ -39,8 +39,8 @@ This is an excellent learning project for PHP beginners and web development stud
 ---
 
 ## 📸 Screenshots  
-![User Login](./myFolders/UserLogin.png)
-![Admin Login](./myFolders/Admin.jpg)
+![User Login](./myFolder/UserLogin.png)
+![Admin Login](./myFolder/Admin.jpg)
 
 
 
