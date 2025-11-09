@@ -1,9 +1,64 @@
-# Online-Quiz-System
-Today Online Quiz System has become a fast growing examination method because of its speed and accuracy. It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination or quiz system, it saves students time in examinations. Organizations can also easily check the performance of the student that they give in an examination. As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper. According to today’s requirement, online examination project in PHP is very useful to learn it.
+# 📝 ONLINE QUIZ SYSTEM  
+**Developed By: Amarjeet Sharma**
+
+Online Quiz System is a fast, accurate and paperless examination method used by modern organizations, institutes, and companies. It reduces manpower, evaluates answers instantly, and generates results in seconds which makes the entire examination process smooth and efficient.
+
+---
+
+## 🚀 Features
+- Beautiful and user-friendly quiz interface  
+- Timer-based MCQ quizzes  
+- Auto checking and instant results  
+- Secure login system  
+- Admin panel to add, update & delete questions  
+- Performance tracking  
+- Works smoothly on all major browsers  
+- Saves time and is environment friendly
+
+---
+
+## 🛠️ Technologies Used
+- PHP  
+- MySQL  
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📚 Project Overview
+Today, almost all organizations conduct their tests online. This project demonstrates how an online quiz works from backend to frontend using PHP and MySQL.  
+It helps students understand:
+- How automatic evaluation works  
+- How database manages questions  
+- How results are generated instantly  
+- How login, sessions, and performance tracking is implemented  
+
+This is an excellent learning project for PHP beginners and web development students.
+
+---
+
+## 📸 Screenshots  
+(Add your screenshots in your repository and update the paths below)
 
 
+---
 
-Attention 
-----------------------------
-exam.rar file contains all the css files, plugins and images.
-----------------------------
+## 🧑‍💻 Developer Info
+**Name:** Amarjeet Sharma  
+GitHub: https://github.com/your-username  
+LinkedIn: https://linkedin.com/in/your-profile  
+Portfolio: https://yourwebsite.com  
+
+Feel free to connect for collaboration or projects.
+
+---
+
+## 📄 License
+This project is open-source and licensed under **Apache License 2.0**.
+
+---
+
+### ⭐ Support  
+If you like this project, consider giving it a **GitHub Star**!
+
