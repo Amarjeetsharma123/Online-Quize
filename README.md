@@ -1,7 +1,7 @@
 # 📝 ONLINE QUIZ SYSTEM  
 **Developed By: Amarjeet Sharma**
 
-Online Quiz System is a fast, accurate and paperless examina00000tion method used by modern organizations, institutes, and companies. It reduces manpower, evaluates answers instantly, and generates results in seconds which makes the entire examination process smooth and efficient.
+Online Quiz System is a fast, accurate and paperless examination method used by modern organizations, institutes, and companies. It reduces manpower, evaluates answers instantly, and generates results in seconds which makes the entire examination process smooth and efficient.
 
 ---
 
@@ -46,8 +46,8 @@ This is an excellent learning project for PHP beginners and web development stud
 
 ## 🧑‍💻 Developer Info
 **Name:** Amarjeet Sharma  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+GitHub: [https://github.com/your-username](http://github.com/Amarjeetsharma123)  
+LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/amarjeetsh239/)
 Portfolio: https://yourwebsite.com  
 
 Feel free to connect for collaboration or projects.
